@@ -1,0 +1,8 @@
+Projet 4x4
+J1 P 0:2
+J2 P 3:4
+Afficher
+Jouer
+J1 T 2:1
+J2 T 1:0
+Afficher
