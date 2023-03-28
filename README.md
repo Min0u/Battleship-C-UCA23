@@ -1,6 +1,6 @@
 # Battleship-C-UCA23
 
-AUTHOR: Chloé KHAO (22106244)
+AUTHOR: Min0u
 DATE: 07-01-2023
 GAME: Battleship - Project C
 
